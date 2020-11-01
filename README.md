@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=idiot-kitto's%20Github&fontSize=40)
 
 
+![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true)
+
+
 ### Problem Solving / Online Judge 💻
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
