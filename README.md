@@ -4,16 +4,17 @@
 
 
 ### Problem Solving / Online Judge 💻
-
-* BOJ: [kitae0629](https://boj.kr/kitae0629)
-  * solved.ac: [kitae0629](https://solved.ac/profile/kitae0629)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
+
 
 ### Contacts 📫
 
 * Email : kitae0629@naver.com
-* Codeforces : [https://http://codeforces.com/profile/kitae0629]
+* Instagram : [kitt0_0](https://www.instagram.com/kitt0_0)
+* Kakao ID : ooaavvv
+* BOJ : [kitae0629](https://boj.kr/kitae0629)
+* Codeforces : [kitae0629](https://http://codeforces.com/profile/kitae0629)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
