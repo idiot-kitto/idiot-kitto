@@ -18,6 +18,7 @@
     </em>
   </p>
 </blockquote>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
 
 
