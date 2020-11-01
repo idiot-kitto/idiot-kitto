@@ -10,6 +10,12 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
 
+### Contacts 📫
+
+* Email : kitae0629@naver.com
+* Codeforces : https://http://codeforces.com/profile/kitae0629
+
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 <!--
