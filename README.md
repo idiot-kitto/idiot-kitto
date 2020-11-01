@@ -2,6 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=idiot-kitto's%20Github&fontSize=40)
 
+### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+
+<p>
+  <em>
+    
+  </em>  
+</p>
+
+
 
 ![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=synthwave)
 
