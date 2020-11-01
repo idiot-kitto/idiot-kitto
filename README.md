@@ -26,7 +26,7 @@
 
 * Email : kitae0629@naver.com
 * Instagram : [kitt0_0](https://www.instagram.com/kitt0_0)
-* Kakao ID : ooaavvv
+* Kakao ID : [ooaavvv](https://open.kakao.com/o/scu8fHEc)
 * BOJ : [kitae0629](https://boj.kr/kitae0629)
 * Codeforces : [kitae0629](https://http://codeforces.com/profile/kitae0629)
 
