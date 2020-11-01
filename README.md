@@ -12,6 +12,7 @@
     "Data Structure, Algorithm"
     <br>
     "Using C++, Python"
+    <br>
     "in" <a href="http://codeforces.com/profile/nlog" rel="nofollow">Codeforces</a> " and " <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a>
   </p>
 </blockquote>
