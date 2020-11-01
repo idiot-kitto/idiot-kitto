@@ -23,7 +23,7 @@
     Using C++, Python
     <br>
     <em>
-      in <a href="http://codeforces.com/profile/nlog" rel="nofollow">Codeforces</a> and <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a>
+      in <a href="http://codeforces.com/profile/kitae0629" rel="nofollow">Codeforces</a> and <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a>
     </em>
   </p>
 </blockquote>
