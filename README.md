@@ -7,7 +7,14 @@
 
 
 ### Problem Solving / Online Judge 💻
-  
+<blockquote>
+  <p>
+    "Data Structure, Algorithm"
+    <br>
+    "Using C++, Python"
+    "in" <a href="http://codeforces.com/profile/nlog" rel="nofollow">Codeforces</a> " and " <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a>
+  </p>
+</blockquote>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
 
 
