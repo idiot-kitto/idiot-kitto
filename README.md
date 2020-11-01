@@ -10,6 +10,8 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
 <!--
 
 **idiot-kitto/idiot-kitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
