@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github.com/idiot-kitto/hit-counter
 <!--
 **idiot-kitto/idiot-kitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
