@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=idiot-kitto's%20Github&fontSize=40)
 
 
-![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=gruvbox)
+![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=merko)
 
 
 ### Problem Solving / Online Judge 💻
