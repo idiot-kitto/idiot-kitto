@@ -28,9 +28,9 @@
   </p>
 </blockquote>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
-<br>
 [![CodeForces Profile](https://cf.leed.at?id=WAphobia)](https://codeforces.com/profile/WAphobia)
+<br><br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
 
 ### Contacts 📫
 
