@@ -20,7 +20,7 @@
   <p>
     Data Structure, Algorithm
     <br>
-    Using C++, Python
+    Using C++
     <br>
     <em>
       in <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a> and <a href="http://codeforces.com/profile/kitae0629" rel="nofollow">Codeforces</a>
@@ -33,8 +33,7 @@
 
 ### Contacts 📫
 
-* Email : kitae0629@naver.com
-* Instagram : [kitt0_0](https://www.instagram.com/kitt0_0)
+* Email : kitae0629@naver.com<!-- * Instagram : [kitt0_0](https://www.instagram.com/kitt0_0) -->
 * Kakao ID : [ooaavvv](https://open.kakao.com/o/scu8fHEc)
 * BOJ : [kitae0629](https://boj.kr/kitae0629)
 * Codeforces : [WAphobia](https://codeforces.com/profile/WAphobia)
