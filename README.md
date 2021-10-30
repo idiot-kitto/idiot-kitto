@@ -2,35 +2,48 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=idiot-kitto's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+<h2>
 
-<p>
-  <em>
-    
-  </em>  
-</p>
+  ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
+  ![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=synthwave)
 
+</h2>
+  
+<h2>
+  
+  ### ✨ Skills
 
-![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=synthwave)
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  
+</h2>
 
+<h2>
+  
+  ### Problem Solving / Online Judge 💻
+  
+  <blockquote>
+    <p>
+      Data Structure, Algorithm
+      <br>
+      Using C++
+      <br>
+      <em>
+        in <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a> and <a href="http://codeforces.com/profile/kitae0629" rel="nofollow">Codeforces</a>
+      </em>
+    </p>
+  </blockquote>
 
-### Problem Solving / Online Judge 💻
-<blockquote>
-  <p>
-    Data Structure, Algorithm
-    <br>
-    Using C++
-    <br>
-    <em>
-      in <a href="https://www.acmicpc.net/user/kitae0629" rel="nofollow">baekjoon</a> and <a href="http://codeforces.com/profile/kitae0629" rel="nofollow">Codeforces</a>
-    </em>
-  </p>
-</blockquote>
+</h2>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
-[![CodeForces Profile](https://cf.leed.at?id=WAphobia)](https://codeforces.com/profile/WAphobia)
+<h2>
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
+  [![CodeForces Profile](https://cf.leed.at?id=WAphobia)](https://codeforces.com/profile/WAphobia)
 
+</h2>
+  
+  
 ### Contacts 📫
 
 * Email : kitae0629@naver.com<!-- * Instagram : [kitt0_0](https://www.instagram.com/kitt0_0) -->
@@ -41,18 +54,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
-<!--
-
-**idiot-kitto/idiot-kitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
