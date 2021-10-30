@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=idiot-kitto's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
-### Hello World!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">&nbsp;Hello World!
 
 ![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=synthwave)
 
@@ -17,7 +17,7 @@
 
 <h2>
   
-  ### Problem Solving / Online Judge 💻
+  ### 💻 Problem Solving / Online Judge 
   <blockquote>
     <p>
       Data Structure, Algorithm<br>
@@ -38,7 +38,7 @@
 </h2>
   
   
-### Contacts 📫
+### 📫 Contacts 
 
 - <a href="mailto:kitae0629@naver.com"> <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/> </a>
 - <a href="https://open.kakao.com/o/scu8fHEc"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/> </a>
