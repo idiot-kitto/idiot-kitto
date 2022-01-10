@@ -31,10 +31,12 @@
 </h2>
 
 <h2>
-  
-  [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
-  [![CodeForces Profile](https://cf.leed.at?id=WAphobia)](https://codeforces.com/profile/WAphobia)
 
+  ## BOJ
+  [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kitae0629&theme=dark)
+  ## Codeforces
+  [![CodeForces Profile](https://cf.leed.at?id=WAphobia)](https://codeforces.com/profile/WAphobia)
 </h2>
   
   
