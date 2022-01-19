@@ -47,4 +47,3 @@
 - <a href="https://open.kakao.com/o/scu8fHEc"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/> </a>
 - <a href="https://boj.kr/kitae0629"> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kitae0629)](https://solved.ac/kitae0629) </a>
 - <a href="https://codeforces.com/profile/WAphobia"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/> </a>
-
