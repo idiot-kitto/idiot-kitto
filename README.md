@@ -1,8 +1,8 @@
-# idiot-kitto&nbsp;<img src="https://github.com/idiot-kitto/idiot-kitto/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidiot-kitto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# idiot-kitto&nbsp;<!-- <img src="https://github.com/idiot-kitto/idiot-kitto/blob/main/aing_eyes.gif" width="40px"> --> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidiot-kitto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=idiot-kitto's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
-### <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">&nbsp;Hello World!
+<!-- ### <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">&nbsp;Hello World! -->
 
 ![idiot-kitto's github stats](https://github-readme-stats.vercel.app/api?username=idiot-kitto&show_icons=true&theme=synthwave)
 
